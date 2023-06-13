@@ -1,0 +1,2 @@
+INSERT INTO TBL_FORNECEDOR (NAME,EMAIL) VALUES ('Maria', 'maria@gmail.com');
+INSERT INTO TBL_FORNECEDOR (NAME,EMAIL) VALUES ('Marcos', 'marcos@gmail.com');
